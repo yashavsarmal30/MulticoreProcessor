@@ -114,7 +114,7 @@ function ParallelProcessingVisualization() {
         <cylinderGeometry args={[0.5, 0.5, 0.2, 32]} />
         <meshStandardMaterial color="#3b82f6" transparent opacity={0.7} />
       </mesh>
-      <Text position={[0, 0, 0.2]} fontSize={0.3} color="white" anchorX="center" anchorY="middle">
+      <Text position={[0, 0, 0.6]} fontSize={0.3} color="white" anchorX="center" anchorY="middle">
         Interconnect
       </Text>
 
