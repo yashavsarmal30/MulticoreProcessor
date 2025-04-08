@@ -126,6 +126,7 @@ export default function FaqSection() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
+              target="_blank"
               href="https://github.com/yashavsarmal30/MulticoreProcessor"
               className="inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground hover:bg-primary/90"
             >
