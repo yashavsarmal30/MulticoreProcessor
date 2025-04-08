@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   description:
     "An interactive educational platform about multicore processors, parallel processing, and modern computing architectures.",
   generator: "v0.dev",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
@@ -22,13 +25,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <head>
-        <link
-          rel="icon"
-          href="../public/favicon.ico"
-          sizes="32x32"
-        />
-      </head>
       <body className={cn(inter.className, "antialiased")}>
         <ThemeProvider
           attribute="class"
@@ -43,5 +39,3 @@ export default function RootLayout({
     </html>
   );
 }
-
-import "./globals.css";
