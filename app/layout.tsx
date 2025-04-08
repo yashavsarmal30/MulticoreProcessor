@@ -22,8 +22,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <link
+          rel="icon"
+          href="../public/favicon.ico"
+          sizes="32x32"
+        />
+      </head>
       <body className={cn(inter.className, "antialiased")}>
-        <link rel="icon" href="/favicon.svg" sizes="any" />
         <ThemeProvider
           attribute="class"
           defaultTheme="dark"
