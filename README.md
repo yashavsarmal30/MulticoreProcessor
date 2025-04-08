@@ -145,5 +145,4 @@ See the [`LICENSE`](LICENSE) file for details.
 
 ```
 YashAvsarmal – yashavsarmal30@gmail.com  
-Project Repository: [https://github.com/yashavsarmal30/MulticoreProcessor](https://github.com/yashavsarmal30/MulticoreProcessor)
-```
+Project Repository: [https://github.com/yashavsarmal30/MulticoreProcessor]```
