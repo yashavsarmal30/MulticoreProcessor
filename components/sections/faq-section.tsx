@@ -127,17 +127,17 @@ export default function FaqSection() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
               target="_blank"
-              href="https://github.com/yashavsarmal30/MulticoreProcessor"
+              href="https://wa.me/919920075872"
               className="inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground hover:bg-primary/90"
             >
               Contact Support
             </a>
             <a
-              href="https://wa.me/919920075872"
+              href="https://github.com/yashavsarmal30/MulticoreProcessor/blob/main/README.md"
               target="_blank"
               className="inline-flex items-center justify-center rounded-md border border-border bg-background px-4 py-2 text-sm font-medium hover:bg-secondary/50"
             >
-              Raise Query
+              View Resources
             </a>
           </div>
         </motion.div>
